@@ -3,7 +3,7 @@ The data in this repository accompanies our paper, [*On the convergent validity 
 
 If you use these data in your own work, please consider including the following citation: 
 
-
+> Radulescu, A., Holmes, K., & Niv, Y. (2020). On the convergent validity of risk sensitivity measures. Retrieved from psyarxiv.com/qdhx4
 
 Datasets
 --------
@@ -31,7 +31,7 @@ Representative citations:
 
 ### Holt & Laury task
 
-This task assesses risk sensitivity from description. Participants made a series of 10 choices between two gambles, A and B, for which the relative expected value of each gamble gradually changes. Gamble A is considered the “safe" gamble, as its variance is generally lower than that of Gamble B. The number of times a participant chooses Gamble A over Gamble B (i.e., the number of “safe", low-risk choices) can be used as a continuous measure of risk sensitivity ranging from highly risk loving (0-1 safe choices) to highly risk averse (9-10 safe choices) 
+This task assesses risk sensitivity from description. Participants made a series of 10 choices between two gambles, A and B, for which the relative expected value of each gamble gradually changes. Gamble A is considered the “safe" gamble, as its variance is generally lower than that of Gamble B. The number of times a participant chooses Gamble A over Gamble B (i.e., the number of “safe", low-risk choices) can be used as a continuous measure of risk sensitivity ranging from highly risk loving (0-1 safe choices) to highly risk averse (9-10 safe choices). 
 
 | Variable    | Description                                                     				|
 |-------------|---------------------------------------------------------------------------------|
@@ -62,7 +62,7 @@ Representative citation:
 
 ### BIS-BAS questionnaire 
 
-This questionnaire assesses behavioral activation and inhibition from self-report. For each of 24 statements, participants rate their agreement with the statement. All responses are recorded on a scale from 1-4 (ranging from "very true for me" to "very false for me"). The items and scoring instructions can be found at [this](https://local.psy.miami.edu/people/faculty/ccarver/availbale-self-report-instruments/bisbas-scales/) link.  
+This questionnaire assesses behavioral activation and inhibition from self-report. For each of 24 statements, participants rate their agreement with the statement. All responses are recorded on a scale from 1-4 (ranging from "very true for me" to "very false for me"). The items and scoring instructions can be found at [this](https://local.psy.miami.edu/people/faculty/ccarver/availbale-self-report-instruments/bisbas-scales/) link.
 
 | Variable    | Description                                                     				|
 |-------------|---------------------------------------------------------------------------------|
