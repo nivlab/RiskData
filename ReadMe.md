@@ -25,26 +25,9 @@ This task asseses risk sensitivity from experience. Participants made repeated c
 
 Representative citations: 
 
-> @article{niv2012neural,
-  title={Neural prediction errors reveal a risk-sensitive reinforcement-learning process in the human brain},
-  author={Niv, Yael and Edlund, Jeffrey A and Dayan, Peter and O'Doherty, John P},
-  journal={Journal of Neuroscience},
-  volume={32},
-  number={2},
-  pages={551--562},
-  year={2012},
-  publisher={Soc Neuroscience}
-}
+> Niv, Y., Edlund, J. A., Dayan, P., & O'Doherty, J. P. (2012). Neural prediction errors reveal a risk-sensitive reinforcement-learning process in the human brain. Journal of Neuroscience, 32(2), 551-562.
 
-@article{arkadir2016dyt1,
-  title={DYT1 dystonia increases risk taking in humans},
-  author={Arkadir, David and Radulescu, Angela and Raymond, Deborah and Lubarr, Naomi and Bressman, Susan B and Mazzoni, Pietro and Niv, Yael},
-  journal={elife},
-  volume={5},
-  pages={e14155},
-  year={2016},
-  publisher={eLife Sciences Publications Limited}
-}
+> Arkadir, D., Radulescu, A., Raymond, D., Lubarr, N., Bressman, S. B., Mazzoni, P., & Niv, Y. (2016). DYT1 dystonia increases risk taking in humans. elife, 5, e14155.
 
 ### Holt & Laury task
 
@@ -60,15 +43,7 @@ This task assesses risk sensitivity from description. Participants made a series
 
 Representative citation:
 
-@article{holt2002risk,
-  title={Risk aversion and incentive effects},
-  author={Holt, Charles A and Laury, Susan K},
-  journal={American economic review},
-  volume={92},
-  number={5},
-  pages={1644--1655},
-  year={2002}
-}
+> Holt, C. A., & Laury, S. K. (2002). Risk aversion and incentive effects. American economic review, 92(5), 1644-1655.
 
 ### DOSPERT questionnaire 
 
@@ -83,14 +58,7 @@ This questionnaire assesses risk sensitivity from self-report. For each of 30 be
 
 Representative citation: 
 
-@article{blais2006domain,
-  title={A domain-specific risk-taking (DOSPERT) scale for adult populations},
-  author={Blais, Ann-Ren{\'e}e and Weber, Elke U},
-  journal={Judgment and Decision making},
-  volume={1},
-  number={1},
-  year={2006}
-}
+> Blais, A. R., & Weber, E. U. (2006). A domain-specific risk-taking (DOSPERT) scale for adult populations. Judgment and Decision making, 1(1).
 
 ### BIS-BAS questionnaire 
 
@@ -105,15 +73,6 @@ This questionnaire assesses behavioral activation and inhibition from self-repor
 
 Representative citation:
 
-@article{carver1994behavioral,
-  title={Behavioral inhibition, behavioral activation, and affective responses to impending reward and punishment: the BIS/BAS scales.},
-  author={Carver, Charles S and White, Teri L},
-  journal={Journal of personality and social psychology},
-  volume={67},
-  number={2},
-  pages={319},
-  year={1994},
-  publisher={American Psychological Association}
-}
+> Carver, C. S., & White, T. L. (1994). Behavioral inhibition, behavioral activation, and affective responses to impending reward and punishment: the BIS/BAS scales. Journal of personality and social psychology, 67(2), 319.
 
 
