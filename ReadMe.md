@@ -1,5 +1,5 @@
 ## Hello! 
-The data in this repository accompanies our paper, [*On the convergent validity of risk sensitivity measures*](https://google.com/). A brief dataset description is provided below. The detailed data acquisition protocol is available in the paper. 
+The data in this repository accompanies our paper, [*On the convergent validity of risk sensitivity measures*](https://psyarxiv.com/qdhx4). A brief dataset description is provided below. The detailed data acquisition protocol is available in the paper. 
 
 If you use these data in your own work, please consider including the following citation: 
 
