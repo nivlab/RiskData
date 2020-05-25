@@ -1,5 +1,5 @@
 ## Hello! 
-The data in this repository accompanies our paper [*On the convergent validity of risk sensitivity measures*](https://google.com/). A detailed dataset description is provided below. 
+The data in this repository accompanies our paper [*On the convergent validity of risk sensitivity measures*](https://google.com/). A brief dataset description is provided below. The detailed data acquisition protocol is available in the [paper](http://google.com). 
 
 Datasets
 --------
@@ -17,7 +17,7 @@ This task asseses risk sensitivity from experience. Participants made repeated c
 | response    | Chosen stimulus   																|
 | outcome     | Outcome of choice in cents (0/2/4)                       						|
 | rt          | Response time in miliseconds  													|
-| version     | Study version (4-5). Version were run 6 months apart with identical protocols.  |
+| version     | Study version (4/5). Version were run 6 months apart with identical protocols.  |
 
 ### Holt & Laury task. 
 
@@ -29,11 +29,20 @@ This task assesses risk sensitivity from description. Participants made a series
 | subj        | De-identified participant identifier                            				|
 | response    | Chosen gamble (Gamble A/Gamble B)                                        		|
 | rt          | Response time in miliseconds  													|
-| version     | Study version (4-5). Version were run 6 months apart with identical protocols.  |
+| version     | Study version (4/5). Version were run 6 months apart with identical protocols.  |
 
 
 ### DOSPERT questionnaire. 
 
+This task assesses risk sensitivity from self-report. For each of 30 behaviors, participants rate the expected benefits of engaging in each behavior, the perceived risk associated with each behavior, and the likelihood of engaging in each behavior (aka risk-taking). All responses are recorded on a scale from 1-7. The 30 behavior descriptions were presented serially, each of them once for assessing benefits, once for assessing perceived risk, and once for assessing risk-taking. This yielded 90 unique questionnaire items (first 30 for perceived benefits, middle 30 for perceived risk, last 30 for risk-taking). The 31st and 62nd responses are recorded for screen advancement and should be excluded from the analysis. The original DOSPERT instrument and scoring instructions are provided in the repository.
 
+| Variable    | Description                                                     				|
+|-------------|---------------------------------------------------------------------------------|
+| subj        | De-identified participant identifier                            				|
+| response    | Response to item                                       							|
+| rt          | Response time in miliseconds  													|
+| version     | Study version (4/5). Version were run 6 months apart with identical protocols.  |
 
 ### BIS-BAS questionnaire. 
+
+
