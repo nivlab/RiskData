@@ -1,33 +1,24 @@
 ## Hello! 
-The data in this repository accompanies our paper [*On the convergent validity of risk sensitivity measures*](https://google.com/) A detailed dataset description is provided below. 
+The data in this repository accompanies our paper [*On the convergent validity of risk sensitivity measures*](https://google.com/). A detailed dataset description is provided below. 
 
-Codebook
+Datasets
 --------
 
 ### Reinforcement learning task. 
+This task asseses risk sensitivity from experience. Participants made repeated choices between stimuli associated with different reward probabilities. Trialtype 2 marks "risk trials", in which participants made a choice between options of the same expected value, but differing in risk level. 
 
-| Variable | Description                                                     |
-|----------|-----------------------------------------------------------------|
-| Subject  | De-identified participant identifier                            |
-| ID       | Unique trial identifier                                         |
-| Domain   | Gamble valence (gain or loss)                                   |
-| Problem  | Gamble type (certain, risky, or dominated)                      |
-| pA1      | Probability of winning larger magnitude outcome for Gamble A    |
-| A1       | Magnitude of larger outcome for Gamble A                        |
-| pA2      | Probability of winning smaller magnitude outcome for Gamble A   |
-| A2       | Magnitude of smaller outcome for Gamble A                       |
-| pB1      | Probability of winning larger magnitude outcome for Gamble B    |
-| B1       | Magnitude of larger outcome for Gamble B                        |
-| pB2      | Probability of winning smaller magnitude outcome for Gamble B   |
-| B2       | Magnitude of smaller outcome for Gamble B                       |
-| Left     | Side of presentation for Gamble A (left = True, right = False)  |
-| Button   | Identity of button pressed by participant (Left = 0, Right = 1) |
-| Choice   | Identity of gamble chosen by participant (A = 1, B = 0)         |
-| RT       | Response time                                                   |
-| Outcome  | Outcome of played gamble                                        |
+| Variable    | Description                                                     				|
+|-------------|---------------------------------------------------------------------------------|
+| subj        | De-identified participant identifier                            				|
+| trial       | Unique trial identifier                                         				|
+| trialtype   | Trialtype, defined by stimulus pair (1-9)                       				|
+| side        | Side of screen associated with response (Left or Right)         				|
+| response    | Chosen stimulus   																|
+| outcome     | Outcome of choice in cents (0/2/4)                       						|
+| rt          | Response time in miliseconds  													|
+| version     | Study version (4-5). Version were run 6 months apart with identical protocols.  |
 
 ### Holt & Laury task. 
-
 
 
 
