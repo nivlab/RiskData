@@ -10,7 +10,7 @@ Datasets
 
 ### Reinforcement learning task
 
-This task asseses risk sensitivity from experience. Participants made repeated choices between stimuli associated with different reward probabilities. Trialtype 2 marks "risk trials", in which participants made a choice between options of the same expected value, but differing in variance. The proportion of times a participant chooses the safe option in these trials can be used as a continous measure of risk sensitivity. 
+This task asseses risk sensitivity from experience. Participants made repeated choices between stimuli associated with different reward probabilities. Trial type 2 marks "risk trials", in which participants made a choice between options of the same expected value, but differing in variance. The proportion of times a participant chooses the safe option in these trials can be used as a continous measure of risk sensitivity. For a complete description of trial types, see Table 2 in the paper.  
 
 | Variable    | Description                                                     				|
 |-------------|---------------------------------------------------------------------------------|
