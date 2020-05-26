@@ -16,12 +16,12 @@ This task asseses risk sensitivity from experience. Participants made repeated c
 |-------------|---------------------------------------------------------------------------------|
 | subj        | De-identified participant identifier                            				|
 | trial       | Unique trial identifier                                         				|
-| trialtype   | Trialtype, defined by stimulus pair (1-9)                       				|
+| trialtype   | Trialtype (1-9)                    												|
 | side        | Side of screen associated with response (Left/Right)         					|
 | response    | Chosen stimulus   																|
 | outcome     | Outcome of choice in cents (0/2/4)                       						|
 | rt          | Response time in miliseconds  													|
-| version     | Study version (4/5). Version were run 6 months apart with identical protocols.  |
+| version     | Study version (4/5). Versions were run 6 months apart with identical protocols. |
 
 Representative citations: 
 
@@ -38,7 +38,7 @@ This task assesses risk sensitivity from description. Participants made a series
 | subj        | De-identified participant identifier                            				|
 | response    | Chosen gamble (Gamble A/Gamble B)                                        		|
 | rt          | Response time in miliseconds  													|
-| version     | Study version (4/5). Version were run 6 months apart with identical protocols.  |
+| version     | Study version (4/5). Versions were run 6 months apart with identical protocols. |
 
 
 Representative citation:
@@ -54,7 +54,7 @@ This questionnaire assesses risk sensitivity from self-report. For each of 30 be
 | subj        | De-identified participant identifier                            				|
 | response    | Response to item                                       							|
 | rt          | Response time in miliseconds  													|
-| version     | Study version (4/5). Version were run 6 months apart with identical protocols.  |
+| version     | Study version (4/5). Versions were run 6 months apart with identical protocols. |
 
 Representative citation: 
 
